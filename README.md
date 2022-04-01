@@ -3,6 +3,7 @@
 	Impedances can be combined in series and parallel in the same manner as resistors.
 	
 **Algorithm**
+
 #1)Include the Header file 
 
 #2)Make a Structure to choose the components as series or parallel connected network.
