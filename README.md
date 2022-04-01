@@ -4,19 +4,19 @@
 	
 **Algorithm**
 
-#1)Include the Header file 
+1)Include the Header file 
 
-#2)Make a Structure to choose the components as series or parallel connected network.
+2)Make a Structure to choose the components as series or parallel connected network.
 
-#3)After that read in a single component from Capacitor,Resistor,Inductor.
+3)After that read in a single component from Capacitor,Resistor,Inductor.
 
-#4)We can allow for multiple coponents ina circuit by adding an extra option to the switch() statement that allocates an array of circuit pointers and recursively calls newcomponent() to fill it.
+4)We can allow for multiple coponents ina circuit by adding an extra option to the switch() statement that allocates an array of circuit pointers and recursively calls newcomponent() to fill it.
 
-#5)Then calculate the impedance of the component by using it's mathematical expression.
+5)Then calculate the impedance of the component by using it's mathematical expression.
 
-*****For a pure resistor of resistance R Ohms, the impedance ZR = R Ohms.
-*For a pure inductor of inductance L Henries, the impedance ZL= jωL Ohms.
-*For a pure capacitor of capacitance C Farads, the impedance ZC = 1/jωC Ohms.
+**For a pure resistor of resistance R Ohms, the impedance ZR = R Ohms.**
+**For a pure inductor of inductance L Henries, the impedance ZL= jωL Ohms.**
+**For a pure capacitor of capacitance C Farads, the impedance ZC = 1/jωC Ohms.**
 
-#6)Return with its impedance value.
+6)Return with its impedance value.
 
