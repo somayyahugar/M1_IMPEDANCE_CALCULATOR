@@ -15,7 +15,9 @@
 5)Then calculate the impedance of the component by using it's mathematical expression.
 
 **For a pure resistor of resistance R Ohms, the impedance ZR = R Ohms.**
+
 **For a pure inductor of inductance L Henries, the impedance ZL= jωL Ohms.**
+
 **For a pure capacitor of capacitance C Farads, the impedance ZC = 1/jωC Ohms.**
 
 6)Return with its impedance value.
