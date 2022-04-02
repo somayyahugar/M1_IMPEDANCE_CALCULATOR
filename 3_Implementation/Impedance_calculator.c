@@ -46,7 +46,7 @@ Component *newcomponent(void) {
     case Parallel:
       while( 1 ) {
         printf("How many nodes are there?\n");
-        scanf("%ud", &n);
+        scanf("%d", &n);
         if ( n > 0)
           break;
         printf("Please enter a positive value\n");
