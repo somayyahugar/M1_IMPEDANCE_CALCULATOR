@@ -22,3 +22,4 @@
 
 6)Return with its impedance value.
 
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/5196bcaeecf44392ac9d3dc190a867d9)](https://www.codacy.com/gh/somayyahugar/M1_IMPEDANCE_CALCULATOR/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=somayyahugar/M1_IMPEDANCE_CALCULATOR&amp;utm_campaign=Badge_Grade)
