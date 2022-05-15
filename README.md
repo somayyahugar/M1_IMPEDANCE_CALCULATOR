@@ -1,4 +1,7 @@
 # M1_IMPEDANCE_CALCULATOR
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/833957184e8b452e9ae4fa081721d8f6)](https://app.codacy.com/gh/somayyahugar/M1_IMPEDANCE_CALCULATOR?utm_source=github.com&utm_medium=referral&utm_content=somayyahugar/M1_IMPEDANCE_CALCULATOR&utm_campaign=Badge_Grade_Settings)
+
   Impedance between two points in an electronic circuit can be defined as the ratio of the voltage difference and the current. It is the AC voltage difference between the two points divided by the AC current. It is assumed here that the AC voltage and currents are sinusoidal with a frequency ‘f’ cycles/sec (the radian frequency, ω, equals 2πf radians/sec). In general, impedance is a function of frequency. The unit of impedance is Ohms (Ohm= volt/ampere).
 	Impedances can be combined in series and parallel in the same manner as resistors.
 	
